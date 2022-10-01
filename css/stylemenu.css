@@ -1,0 +1,168 @@
+/*COLOR PALETTE
+https://coolors.co/73bca1-468499-3f6634-345511-b48b7d
+#F7FFF7 - almost white
+#343434 - dark gray - almost black
+#79BCA1 - green sheen
+#468499 - teal blue
+#3F6634 - hunter green
+#345511 - lincoln green
+#B48B7D - rosy brown
+*/
+
+/* Navigation Division
+------------------------------------*/
+.navbar ul{
+	font-family: 'EB Garamond', serif;
+	list-style: none;
+	background: #546B60;
+	position: float;
+	padding: 5px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 1px -1px 0 #343434;	
+}
+.navbar li{
+	display: inline-block;
+	
+}
+.navbar a{
+	text-decoration: none;
+	color: #F7FFF7;
+	width: 120px;
+	display: block;
+	padding: 20px;	
+	text-align: center;
+	
+}
+.navbar a:hover{
+	background: #468499;
+}
+/* Heading Division
+------------------------------------*/
+
+}
+h1 {
+	font-family: 'EB Garamond', serif;
+	color: #343434;
+	text-align: Center;
+	text-shadow: 2px -2px 0 #F7FFF7;
+	font-size: 100px;
+}
+
+h2 {
+	font-family: 'EB Garamond', serif;
+	display: block;
+    font-size: 25px;
+    font-style: bold;
+	color: #345511;	
+}
+
+	/* Body Division
+------------------------------------*/
+.main-container {
+	padding: 20px 40px;
+	display: flex;
+	background: #546B60;
+	
+}
+.container1 {
+	
+	margin: 10px;
+	border: 5px solid black;
+	overflow: hidden;
+	background: #B48B7D;
+    font-style: bold;
+}
+.container1 li {
+	display: inline-block;
+	font-family: 'EB Garamond', serif;
+    font-size: 35px;
+    font-style: bold;
+	color: #F7FFF7;
+	text-shadow: 2px -3px 0 #343434;
+}		
+h3  {
+	font-family: 'EB Garamond', serif;
+    font-size: 35px;
+    font-style: bold;
+	color: #468499;
+	text-shadow: 2px -3px 0 #F7FFF7;
+	text-align; center;
+}
+h5	{
+	font-family: 'EB Garamond', serif;
+	display: block;
+    font-size: 40px;
+    font-style: none;
+	color: #468499;
+	text-align; center;
+}
+.p {
+	text-align; center;
+}
+	
+
+/* Footer Division
+------------------------------------*/
+*  {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+.footer-container {
+	background-color: #546B60;
+	padding-bottom: 4rem;
+}
+.footer {
+	width: 75%;
+	height: 25vh;
+	background-color: #546B60;
+	color: #F7FFF7;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin: 0 auto;
+	padding-bottom: 9rem;
+	padding-left: 0px;
+	padding-top: 100px;
+	margin-right: 0px;
+}
+.footer-heading {
+	display: flex;
+	flex-direction: column;
+	margin-right: 4rem;	
+}
+.footer-heading h2 {
+	margin-bottom: 2rem;
+}
+.footer-heading a {
+	color: #F7FFF7;
+	text-decoration: none;
+	margin-bottom: 0.5rem;
+}
+.footer-heading a:hover{
+	color: #468499;
+	transition: 0.3 ease-out;
+}
+li {
+	list-style: none;
+}
+h6 {
+	color: #343434;
+}
+
+
+/*COLOR PALETTE
+https://coolors.co/73bca1-468499-3f6634-345511-b48b7d
+#F7FFF7 - almost white
+#343434 - dark gray - almost black
+#79BCA1 - green sheen
+#468499 - teal blue
+#3F6634 - hunter green
+#345511 - lincoln green
+#B48B7D - rosy brown
+#546B60 - nav & footer color
+*/

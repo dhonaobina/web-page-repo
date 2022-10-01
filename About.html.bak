@@ -1,0 +1,86 @@
+<!Doctype html>
+<html lang="en">
+<head>
+	<meta charset=utf-8">
+	<meta name="viewport" content="width=device-width maximum-scale=1.0"/>
+	<link rel="stylesheet" href="css/styleabout.css">
+	<link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<title>Tāpiri Organic Café - About US</title>
+</head>
+
+
+<!--****************Navigation Division****************--!>
+<body>
+	<nav>
+		<div class ="navbar">
+			<ul>
+				<img src="img/logo.svg" alt="Add Organic Cafe Logo" class="logo" height="130">
+				<li><a href="index.html" data-text="Home">Home</a></li>
+				<li><a href="About.html" data-text="About">About</a></li>
+				<li><a href="Menu.html" data-text="Menu">Menu</a></li>
+				<li><a href="Gallery.html" data-text="Gallery">Gallery</a></li>
+				<li><a href="contact.html" data-text="Contact">Contact</a></li>
+			</ul>
+		</div>
+	</nav>
+<!--****************Header Division****************--!>
+<header>
+	<div class="mainheader">
+		<h1>About US</h1>
+		  <div class="videowrapper">
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wCKjNsvsekk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	</div>
+</header>	
+<!--****************Body Division****************--!>
+	<div class="box">	
+		<p>Tāpiri Organic Café aims to showcase healthy and supports
+		Aotearoa farmers whenever possible.
+		Nourishing our body with wholistic 'Kai' s our love for the surroundings.
+		We are family owned business we provide kids friendly café.
+		We welcome everyone that is willing to share organic to their love ones
+		We use environmentally friendly products and contributes 
+		to zero waste management NZ by avoiding the use of plastics.</p>
+	</div>
+	</div>
+	<br>
+	 
+	
+		<img src="img/border.png" alt:Maori Art style:"auto" weight:"100px">
+</body>
+<!-- *****************Footer Division ***************** -->
+<footer>
+	<div class="footer-container">
+		<div class="footer">
+				<div class="footer-heading footer-1">
+					<h6>Quick Links<h6>
+					<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a>About Us</a></li>
+					<li><a href="Menu.html">Menu</a></li>
+					<li><a href="Gallery.html">Gallery</a></li>
+					<li><a href="Contact.html">Contact US</a></li>
+				</div>
+				<div class="footer-heading footer-2">
+					<h6>Follow US<h6>
+					<li><a href="https://www.Tiktok.com">Tiktok</a></li>
+					<li><a href="https://www.facebook.com">Facebook</a></li>
+					<li><a href="https://www.Instagram.com">Instagram</a></li>
+				</div>
+				<div class="footer-3">
+					<h6>Contact US<h6>
+					<li><a>763 Smith Avenue<a></li>
+					<li><a>Christchurch 0888</a></li>
+					<li><a>+64 27555 8668</a></li>
+				</div>
+				<div class="copyright">
+					<h6>© 2021 Tāpiri Organic Café</h6>
+					<h6>Website design by Dhona Obina</h6>
+				</div>
+			</div>
+		</div>
+	</div>	
+</footer>	
+</body>
+</html>		
